@@ -25,8 +25,15 @@ Wayfarer App builds a travel community where users are able to share their stori
 
 ## Planned Features
 
-*What changes would you make to your project if you continue to work on it? (bullet points)*
+- Implement Search Bar
+- Open up posts for other users to comment
+- Receive welcome email upon registration
+- Implement pretty urls
 
 ---
 
-##### Screenshot(s) (optional)
+##### Collaborators
+William VanHook
+Laura Pease
+Juliana Zlatevski
+Benjamin Closson
