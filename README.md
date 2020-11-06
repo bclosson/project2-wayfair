@@ -33,7 +33,7 @@ Wayfarer App builds a travel community where users are able to share their stori
 ---
 
 ##### Collaborators
-William VanHook
-Laura Pease
-Juliana Zlatevski
-Benjamin Closson
+- William VanHook
+- Laura Pease
+- Juliana Zlatevski
+- Benjamin Closson
