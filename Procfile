@@ -1,1 +1,1 @@
-web: gunicorn {project2-wayfair}.wsgi
+web: gunicorn projectwayfarer_project.wsgi
